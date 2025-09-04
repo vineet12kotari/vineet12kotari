@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
+  <a href="mailto:vineetkotari98@gmail.com?subject=Hello%20K.%20Dinkar&body=Hi%20K.%20Dinkar,%0D%0A%0D%0AI%20would%20like%20to%20connect%20with%20you.">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
 </div>
 
 
