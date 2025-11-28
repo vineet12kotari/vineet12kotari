@@ -100,7 +100,7 @@
 <!-- FOOTER -->
 <div align="center">
   <p style="font-size:18px; font-weight:bold; color:#6366F1; margin-top:10px;">
-    💡 Hover over an icon to explore the technology
+    💡 Click over an icon to explore the technology
   </p>
 </div>
 
