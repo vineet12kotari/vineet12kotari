@@ -200,7 +200,7 @@ mindmap
 <b>Oracle Cloud Infrastructure 2025</b>
 <br/>Certified AI Foundations Associate
 <br/><br/>
-<a href="https://drive.google.com/drive/folders/1OcrsY7Ml9YeT9cEfSmgSfTO_TXKDYK69">View Certificate →</a>
+<a href="https://drive.google.com/file/d/1bqAOSkUS7Jt1LNHNyNyZCaxtrTfqA_5Q/view?usp=drive_link">View Certificate →</a>
 <br/><br/>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=15616F0246BFDBF1E6E23B58928F997D437C93D6D0C37BCF711BBDD5F2EA0D46">Verify through Oracle Certview →</a>
 </tr>
