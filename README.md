@@ -1,67 +1,278 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# 🚀K. Dinkar | Data Analyst
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+ETL+%26+Automation;Storytelling+with+Numbers;Let+the+Data+do+the+Talking;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
+
 </div>
+
+---
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/k-dinkar-7866b3244/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<!-- LANGUAGES & TOOLS -->
+<h1 align="center">🛠 Language & Tools</h1>
+
+<br/>
+
+<!-- DATA & ANALYTICS -->
+<div align="center">
+
+### ⚙📊 ETL & Data Analytics
+
+<p>
+<a href="https://www.python.org/" target="_blank" title="Python" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+         width="50" height="50" alt="Python"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://numpy.org/images/logo.svg" width="55" height="55" alt="NumPy"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="65" height="65" alt="Pandas"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.alteryx.com/" target="_blank" title="Alteryx">
+    <img src="https://cdn.simpleicons.org/alteryx/1F8BD6" width="65" height="65" alt="Alteryx"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55" alt="Matplotlib"/>
+</a>
+  &nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="100" alt="Seaborn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
+    <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="75" height="75" alt="Apache Spark"/>
   </a>
 
-  <a href="https://www.instagram.com/vineetkotari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-
-  <a href="mailto:vineetkotari98@gmail.com?subject=Hello%20K.%20Dinkar&body=Hi%20K.%20Dinkar,%0D%0A%0D%0AI%20would%20like%20to%20connect%20with%20you.">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+</p>
 
 </div>
 
+<br/>
+
+<!-- BI & VISUALIZATION -->
+<div align="center">
+
+### 📈 Business Intelligence & Visualization
+
+<p>
+ <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" title="Excel">
+    <img src="https://img.icons8.com/fluency/512/microsoft-excel-2019.png" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60"/>
+</p>
+</div>
+
+<br/>
+
+<!-- DATABASES -->
+<div align="center">
+
+### ☁🗄 Cloud & Databases
+
+<p>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://img.icons8.com/color/96/mysql-logo.png" width="80" height="80" alt="MySQL" style="display:block; border:0; vertical-align:middle;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.snowflake.com/" target="_blank" title="Snowflake">
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60" height="60" alt="Snowflake"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="65" height="65"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
 
 
-# 💫 Hi 👋, I'm K.Dinkar
-| 📊 Data Analyst |
-
-- 🔭 *I’m currently working on:* Power BI Project
-- 🌱 *I’m currently learning:* SQL,Python,PBI
-- 👯 *I’m looking to collaborate on:* IPL players dashboard using PowerBi
-- 💬 *Ask me about:* Collaboration, Tech Support
-- 📫 *How to reach me:* vineetkotari98@gmail.com
-- 😄 *Pronouns:* Vineeeet
-- ⚡ *Fun fact:* I like to play with data.
+<!-- FOOTER -->
+<div align="center">
+  <p style="font-size:18px; font-weight:bold; color:#6366F1; margin-top:10px;">
+    💡 Hover over an icon to view the tool name
+  </p>
+</div>
 
 
-# 🛠 Language and tools:
+<hr/>
 
-<!-- 📊 Data & Analytics -->
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<!-- 🗄 Databases -->
-![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+# 📊 GitHub Performance Metrics
 
-<!-- ⚙ Data Engineering & ETL -->
-![Matillion](https://img.shields.io/badge/Matillion-1C9A36.svg?style=for-the-badge&logo=matillion&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=alteryx&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+<div align="center">
 
-<!-- ☁ Cloud & Automation -->
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=power-automate&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vineet12kotari&theme=radical" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vineet12kotari&theme=radical" width="85%" />
+</td>
+</tr>
+</table>
 
-<!-- 🔧 Tools -->
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet12kotari&theme=radical" width="85%" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vineet12kotari&theme=radical&utcOffset=5.5" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vineet12kotari&theme=radical" width="85%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((K.Dinkar))
+    Data Analysis
+      Exploratory Data Analysis (EDA)
+      Statistical Analysis
+      Data Cleaning
+      Data Visualization
+    Tools & Libraries
+      Python
+      Pandas
+      NumPy
+      Matplotlib
+      Seaborn
+      SQL
+      Excel
+    Big Data & Cloud
+      Spark
+      AWS
+      Google Cloud
+      Data Pipelines
+    Career Goals
+      Data Analyst
+      Business Analyst
+      BI Developer
+      Analytics Consultant
+
+%%{init: {'theme':'base', 'themeVariables': { 
+  'primaryColor': '#D7DAE5',
+  'primaryTextColor': '#2C3E50',
+  'primaryBorderColor': '#8EAF9D',
+  'lineColor': '#A6D8D4',
+  'secondaryColor': '#B9CDDA',
+  'secondaryTextColor': '#2C3E50',
+  'secondaryBorderColor': '#8EAF9D',
+  'tertiaryColor': '#A6D8D4',
+  'tertiaryTextColor': '#2C3E50',
+  'tertiaryBorderColor': '#8EAF9D',
+  'nodeBorder': '#8EAF9D',
+  'nodeTextColor': '#2C3E50'
+}}}%%
+```
+---
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="85"/>
+<br/>
+<b>Oracle Cloud Infrastructure 2025</b>
+<br/>Certified AI Foundations Associate
+<br/><br/>
+<a href="https://drive.google.com/drive/folders/1OcrsY7Ml9YeT9cEfSmgSfTO_TXKDYK69">View Certificate →</a>
+<br/><br/>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=15616F0246BFDBF1E6E23B58928F997D437C93D6D0C37BCF711BBDD5F2EA0D46">Verify through Oracle Certview →</a>
+</tr>
+</table>
+</div>
+<br/>
+
+---
+
+<br/>
+
+# 💼 Professional Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🏢 *Data Analyst @ AVT Pvt Ltd*  
+*Sep 2024 – Oct 2025*
+
+- Performed ETL & automation workflows using SQL, Python & Alteryx  
+- Designed dashboards using Power BI to improve data visibility  
+- Cleaned, transformed, and validated 50K+ records across systems  
+- Automated Excel & reporting workflows (30% reduction in manual work)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💼 Open to Opportunities
+
+<div align="center">
+
+### 🎯 *Actively Looking For Roles In*
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/graph.png" width="64"/>
+<br/><b>Data Analyst</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/database.png" width="64"/>
+<br/><b>Data Engineer</b>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="64"/>
+<br/><b>Business Analyst</b>
+</td>
+</tr>
+</table>
+
+### 📬 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-dinkar-7866b3244/)  
+[![Email Me](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vineetkotari98@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9301769459) [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vineetkotari/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
 
 <!-- Snake Game Repo View -->
 
@@ -69,8 +280,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vineet12kotari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineet12kotari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+<div align="center">
+
+*✨ "Do or Do not, there is no try." – Yoda*
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+
 </div>
