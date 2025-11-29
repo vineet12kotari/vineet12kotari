@@ -162,13 +162,14 @@ mindmap
     Big Data & Cloud
       Spark
       AWS
+      Azure
       Google Cloud
       Data Pipelines
     Career Goals
       Data Analyst
       Business Analyst
-      BI Developer
-      Analytics Consultant
+      Data Engineer
+      Explore Cloud-Side
 
 %%{init: {'theme':'base', 'themeVariables': { 
   'primaryColor': '#D7DAE5',
