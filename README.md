@@ -35,7 +35,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.alteryx.com/" target="_blank" title="Alteryx">
-    <img src="https://github.com/vineet12kotari/vineet12kotari/blob/bc80497e79cea2d79140719568320f7e6433c538/pngegg%20(1).png" width="65" height="65" alt="Alteryx"/>
+    <img src="https://github.com/vineet12kotari/vineet12kotari/blob/bc80497e79cea2d79140719568320f7e6433c538/pngegg%20(1).png" width="45" height="45" alt="Alteryx"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
@@ -43,11 +43,11 @@
 </a>
   &nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="100" alt="Seaborn"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="110" height="110" alt="Seaborn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
-    <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="75" height="75" alt="Apache Spark"/>
+    <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="85" height="85" alt="Apache Spark"/>
   </a>
 
 </p>
