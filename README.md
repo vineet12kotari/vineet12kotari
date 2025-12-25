@@ -35,7 +35,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.alteryx.com/" target="_blank" title="Alteryx">
-    <img src="https://cdn.simpleicons.org/alteryx/1F8BD6" width="65" height="65" alt="Alteryx"/>
+    <img src="https://github.com/vineet12kotari/vineet12kotari/blob/bc80497e79cea2d79140719568320f7e6433c538/pngegg%20(1).png" width="65" height="65" alt="Alteryx"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
