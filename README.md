@@ -107,34 +107,11 @@
 
 <hr/>
 
-
-# 📊 GitHub Performance Metrics
+# 📊 GitHub Activity Graph
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vineet12kotari&theme=radical" width="85%" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vineet12kotari&theme=radical" width="85%" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet12kotari&theme=radical" width="85%" />
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vineet12kotari&theme=radical&utcOffset=5.5" width="85%" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vineet12kotari&theme=radical" width="85%" />
-</td>
-</tr>
-</table>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vineet12kotari&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
