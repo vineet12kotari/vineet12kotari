@@ -104,8 +104,37 @@
   </p>
 </div>
 
-
+# 📊 GitHub Performance Metrics
 <hr/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vineet12kotari&theme=radical" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vineet12kotari&theme=radical" width="85%" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vineet12kotari&theme=radical" width="85%" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vineet12kotari&theme=radical&utcOffset=5.5" width="85%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vineet12kotari&theme=radical" width="85%" />
+</td>
+</tr>
+</table>
+
+</div>
+
 
 # 📊 GitHub Activity Graph
 
@@ -172,21 +201,34 @@ mindmap
 
 <table>
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="50%">
+<img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="90"/>
+<br/>
+<b>Alteryx Designer Core Certification</b>
+<br/><br/>
+<a href="https://drive.google.com/file/d/17XZIjriUGsqkgqT7wZK9heyv83yz3rr5/view?usp=sharing">View Certificate →</a>
+<br/><br/>
+<a href="https://www.credly.com/badges/c5b6441e-cbde-4f1c-8f91-eefb5036e92f/public_url">Verify through Credly →</a>
+</td>
+
+<td align="center" width="50%">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="85"/>
 <br/>
 <b>Oracle Cloud Infrastructure 2025</b>
-<br/>Certified AI Foundations Associate
+<br/>
+Certified AI Foundations Associate
 <br/><br/>
-<a href="https://drive.google.com/file/d/1bqAOSkUS7Jt1LNHNyNyZCaxtrTfqA_5Q/view?usp=drive_link">View Certificate →</a>
+<a href="https://drive.google.com/file/d/1Ap9UFZgzqvSS6hE2n_maXjdyDjjz3_ah/view?usp=sharing">View Certificate →</a>
 <br/><br/>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=15616F0246BFDBF1E6E23B58928F997D437C93D6D0C37BCF711BBDD5F2EA0D46">Verify through Oracle Certview →</a>
+</td>
+
 </tr>
 </table>
-</div>
-<br/>
 
----
+</div>
+
 
 <br/>
 
